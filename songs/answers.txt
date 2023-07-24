@@ -1,0 +1,2 @@
+As we can see by the previous texts, the sql language in primarly responsible for analizying a database, and returning specific characteristics of interest ( i.e mean, which artist wrote the selected songs)
+This type of language use simplified commands compared with an lower level language, as in C, and it's utillity is, probably, to facilitate the process of selecting an database
