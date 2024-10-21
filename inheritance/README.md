@@ -33,12 +33,12 @@ Este programa simula a **herança genética** de uma família. Através da utili
 ## Exemplo de Uso
   Ao executar o programa, você verá uma saída semelhante a:
 
-     ```bash
+   ```bash
     Generation 0, blood type BB
     Generation 1, blood type AB
       Child of generation 2, blood type AA
       Child of generation 2, blood type AB
-     ```
+   ```
 ## Requisitos
 Linguagem C: O programa foi escrito em C e utiliza conceitos de alocação dinâmica de memória e estruturas.
 
