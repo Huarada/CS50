@@ -43,10 +43,9 @@ E o dicionário não contiver a palavra "simple", a saída será:
 Misspelled word: simple
 ```
 ## Estrutura de Dados
-O dicionário pode ser implementado usando diferentes estruturas de dados, como:
+O dicionário foi implementado usando a seguinte estrutura de dados:
 
  - Hash Table: Utilizada para permitir a verificação rápida das palavras, minimizando o tempo de busca.
- - Linked List: Pode ser usada em conjunto com a hash table para resolver colisões.
 
 ## Requisitos
  - Linguagem C: O programa é escrito em C e faz uso de estruturas de dados eficientes para armazenar e buscar palavras.
