@@ -42,11 +42,7 @@ Luna
 Enter a dog name to search: Max
 Found!
 ```
-3. Para autocompletar um prefixo, o usuário pode digitar um prefixo e o programa sugerirá possíveis nomes de cães com esse prefixo:
-```bash
-Enter a prefix to autocomplete: Ma
-Suggestions: Max, Maya, Mario
-```
+
 ## Estrutura de Dados
 - Trie: A Trie é uma árvore de prefixos em que cada nó representa uma letra. As palavras são armazenadas de forma eficiente, com prefixos compartilhados entre palavras que têm o mesmo início.
 
