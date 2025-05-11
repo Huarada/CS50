@@ -36,7 +36,7 @@ Por exemplo:
 ## Exemplo de Uso
 Se o arquivo sample.txt contiver as palavras:
   ```bash
-  Hello world! This is a simple test.
+  Hello world! This is a siple test.
   ```
 E o dicionário não contiver a palavra "simple", a saída será:
 ```bash
